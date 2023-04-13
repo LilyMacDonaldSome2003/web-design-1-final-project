@@ -90,3 +90,12 @@ a.button {
   font-weight: bold;
 
 }
+
+section.triatic, .better {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  text-align: center;
+  justify-items: center;
+  background-color: #000;
+}
