@@ -1,5 +1,6 @@
 body {
     font-family: 'Quattrocento Sans', sans-serif;
+    background-color:beige ;
 }
 
 header {
@@ -64,3 +65,4 @@ section.columns {
   display: flex;
 }
 
+a {}
