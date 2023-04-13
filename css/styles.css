@@ -12,12 +12,33 @@ header {
     color: blanchedalmond;
   }
 
+.hero-banner-img {
+  width: 100%;
+}
+
 .logo {
+    display: flex;
     font-weight: bold;
     color: blanchedalmond;
     font-size: 2rem;
     text-align: left;
   }  
+
+  nav {
+    text-align: left;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin-left: 3em;
+    margin-bottom: 0;
+  }
 
 nav {
     margin: 0;
@@ -27,8 +48,10 @@ nav {
     justify-content: space-between;
   }  
 
+
 section, article {
     padding: 3em;
     align-items: center;
+    //*display: flex;*//
 
 }
