@@ -36,17 +36,22 @@ nav a {
 .typography {
   text-align: center;
 }  
-  nav {
+
+section.work  {
+  text-align: center;
+}
+
+nav {
     text-align: left;
   }
   
-  nav ul {
+nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
   }
-  
+
   nav li {
     margin-left: 3em;
     margin-bottom: 0;
@@ -69,7 +74,7 @@ section, article {
 }
 
 
-section.columns {
+section.rows {
   margin: 0;
   padding: 0;
   display: flex;
