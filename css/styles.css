@@ -1,6 +1,6 @@
 body {
     font-family: 'Quattrocento Sans', sans-serif;
-    background-color:beige ;
+    color: #353535;
 }
 
 header {
@@ -15,6 +15,7 @@ header {
 
 .hero-banner-img {
   width: 100%;
+
 }
 
 .logo {
@@ -26,6 +27,15 @@ header {
     text-align: left;
   }  
 
+nav a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.typography {
+  text-align: center;
+}  
   nav {
     text-align: left;
   }
@@ -65,4 +75,14 @@ section.columns {
   display: flex;
 }
 
-a {}
+
+
+a.button {
+  justify-content: center;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+
+}
