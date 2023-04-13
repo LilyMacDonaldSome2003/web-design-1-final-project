@@ -11,7 +11,6 @@ header {
     align-items: center;
     color: blanchedalmond;
   }
-  
 
 .logo {
     font-weight: bold;
@@ -28,3 +27,8 @@ nav {
     justify-content: space-between;
   }  
 
+section, article {
+    padding: 3em;
+    align-items: center;
+
+}
