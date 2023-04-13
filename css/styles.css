@@ -18,6 +18,7 @@ header {
 
 .logo {
     display: flex;
+    width: 0%;
     font-weight: bold;
     color: blanchedalmond;
     font-size: 2rem;
@@ -53,5 +54,13 @@ section, article {
     padding: 3em;
     align-items: center;
     //*display: flex;*//
-
+    
 }
+
+
+section.columns {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
