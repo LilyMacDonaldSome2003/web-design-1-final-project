@@ -1,3 +1,30 @@
 body {
     font-family: 'Quattrocento Sans', sans-serif;
 }
+
+header {
+    background: black;
+    padding: 1em 3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: blanchedalmond;
+  }
+  
+
+.logo {
+    font-weight: bold;
+    color: blanchedalmond;
+    font-size: 2rem;
+    text-align: left;
+  }  
+
+nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }  
+
