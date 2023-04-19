@@ -36,7 +36,7 @@ nav a {
 
 section.image {
   margin: 0 auto 20px;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 img.image {
@@ -45,7 +45,7 @@ img.image {
 
 .typography {
   text-align: center;
-  font-size: 2em;
+  font-size: 1em;
 }  
 
 section.work  {
