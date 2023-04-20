@@ -137,8 +137,8 @@ a.button {
 }
 
 section.triatic {
+  justify-content: center;
   font-weight: bold;
-  text-align: center;
 }
 
 
