@@ -149,6 +149,10 @@ section.triatic {
   color: #999;
 }
 
+.during {
+  text-align: center;
+}
+
 section.triatic, .better {
   color: #fff;
   margin: 0;
