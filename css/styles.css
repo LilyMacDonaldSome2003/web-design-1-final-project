@@ -145,6 +145,10 @@ section.triatic {
   font-style: italic;
 }
 
+.p2, .p4 {
+  color: #999;
+}
+
 section.triatic, .better {
   color: #fff;
   margin: 0;
