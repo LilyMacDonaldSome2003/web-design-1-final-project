@@ -138,9 +138,12 @@ a.button {
 
 section.triatic {
   justify-content: center;
-  font-weight: bold;
+  font-weight:bold;
 }
 
+.p1, {
+  font-style: italic;
+}
 
 section.triatic, .better {
   color: #fff;
@@ -149,7 +152,9 @@ section.triatic, .better {
   display: flex;
   text-align: center;
   justify-items: center;
-  background-color: #000;
+  background-color: #121217;
+  border: 1px;
+  padding: 2em;
 }
 
 section.image, section.center {
