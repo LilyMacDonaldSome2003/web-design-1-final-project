@@ -174,3 +174,7 @@ section.image, section.center {
 section.work {
   background-color: white;
 }
+
+.Contact {
+  image-rendering: auto;
+}
