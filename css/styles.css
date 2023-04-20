@@ -140,6 +140,7 @@ a.button {
 section.triatic {
   justify-content: center;
   font-weight:bold;
+  
 }
 
 .p1, .p3 {
@@ -175,6 +176,7 @@ section.work {
   background-color: white;
 }
 
-.Contact {
-  image-rendering: auto;
+.contact {
+  height: 200px;
+  width: 30px;
 }
